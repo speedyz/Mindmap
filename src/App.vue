@@ -7,8 +7,7 @@
   </div>
 </template>
 
-<script>
-let tree = {
+<script>let tree = {
   label: 'Food',
   nodes: [
     {
